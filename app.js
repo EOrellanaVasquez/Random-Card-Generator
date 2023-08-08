@@ -60,4 +60,3 @@ const buttonRefreshPage = document.getElementById("refreshButton");
 buttonRefreshPage.addEventListener('click', () => {
     location.reload();
 });
-
